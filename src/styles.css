@@ -1,0 +1,63 @@
+.data-style {
+  width: 100vw;
+  height: 120vh;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: gray;
+}
+.details-style {
+  margin-left: 10px;
+  margin: 10px;
+  width: 200px;
+  height: 350px;
+  overflow: hidden;
+  margin-bottom: 0px;
+  border: 1px solid gray;
+  background-color: black;
+}
+.details-style img {
+  height: 200px;
+  width: 180px;
+  margin: 5px;
+  margin-left: 10px;
+  margin-bottom: 1px;
+}
+.text {
+  color: wheat;
+}
+.summary {
+  color: white;
+}
+.button {
+  width: 100vw;
+  height: 70vh;
+  border: 1px solid black;
+  background-color: black;
+}
+.heading {
+  color: white;
+  margin-left: 20px;
+}
+.container {
+  background-color: rgb(51, 46, 46);
+  height: 50vh;
+  width: 50vw;
+  margin: auto;
+  margin-top: 30px;
+}
+.main {
+  display: flex;
+  margin-left: 30px;
+  margin-top: 40px;
+}
+.inputArea {
+  margin-left: 49px;
+  margin-top: 30px;
+}
+.lable {
+  font-size: 25px;
+  color: white;
+  margin-left: 20px;
+}
